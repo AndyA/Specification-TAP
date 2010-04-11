@@ -7,7 +7,7 @@ use Carp;
 
 =head1 NAME
 
-Specification::TAP - [One line description of module's purpose here]
+Specification::TAP - TAP specification with tests
 
 =head1 VERSION
 
@@ -16,18 +16,6 @@ This document describes Specification::TAP version 0.01
 =cut
 
 our $VERSION = '0.01';
-
-=head1 SYNOPSIS
-
-  use Specification::TAP;
-  
-=head1 DESCRIPTION
-
-=head1 INTERFACE 
-
-=head2 C<< new >>
-
-=cut
 
 1;
 __END__
